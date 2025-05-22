@@ -20,10 +20,15 @@ Este projeto realiza uma análise exploratória dos dados de votação das elei�
 
 ## Organização
 analise-eleicoes-brasil/
+
     ├── data/ # Dados CSV baixados do TSE
+
     ├── notebooks/ # Notebooks Jupyter para análise
+
     ├── app/ # Interface Streamlit (opcional)
+
     ├── README.md
+    
     └── requirements.txt
 
 ## Instalação
