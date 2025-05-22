@@ -20,15 +20,16 @@ Este projeto realiza uma análise exploratória dos dados de votação das elei�
 
 ## Organização
 analise-eleicoes-brasil/
+
 ├── data/ # Dados CSV baixados do TSE
+
 ├── notebooks/ # Notebooks Jupyter para análise
+
 ├── app/ # Interface Streamlit (opcional)
+
 ├── README.md
+
 └── requirements.txt
-
-## Exemplo de gráfico gerado
-
-![Exemplo de gráfico](https://www.researchgate.net/publication/337062516/figure/fig5/AS:844764224167947@1578418894508/Bar-Graph-of-Aggregate-Results-from-the-Closed-List-Vote-and-the-AB-Vote.png)
 
 ## Instalação
 
