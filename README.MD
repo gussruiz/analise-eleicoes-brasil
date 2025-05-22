@@ -12,7 +12,7 @@ Este projeto realiza uma análise exploratória dos dados de votação das elei�
 
 ## Tecnologias utilizadas
 
-- Python 3.10
+- Python 3.12.4
 - Pandas
 - Matplotlib
 - Seaborn
