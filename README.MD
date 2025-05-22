@@ -1,0 +1,36 @@
+# Análise de Dados das Eleições 2022 - Brasil
+
+Este projeto realiza uma análise exploratória dos dados de votação das eleições de 2022 no Brasil, com foco nos votos por partido e por candidato no estado de São Paulo.
+
+> Os arquivos de dados utilizados neste projeto podem ser baixados no site do [TSE](https://dadosabertos.tse.jus.br/). Por padrão, não são incluídos no repositório.
+
+## Objetivos
+
+- Explorar os dados das eleições com foco em partidos, zonas eleitorais e candidatos
+- Visualizar os votos por partido e candidato
+- Identificar padrões e possíveis insights
+
+## Tecnologias utilizadas
+
+- Python 3.10
+- Pandas
+- Matplotlib
+- Seaborn
+- Streamlit (opcional)
+
+## Organização
+analise-eleicoes-brasil/
+├── data/ # Dados CSV baixados do TSE
+├── notebooks/ # Notebooks Jupyter para análise
+├── app/ # Interface Streamlit (opcional)
+├── README.md
+└── requirements.txt
+
+## Exemplo de gráfico gerado
+
+![Exemplo de gráfico](https://www.researchgate.net/publication/337062516/figure/fig5/AS:844764224167947@1578418894508/Bar-Graph-of-Aggregate-Results-from-the-Closed-List-Vote-and-the-AB-Vote.png)
+
+## Instalação
+
+``bash``
+pip install -r requirements.txt
