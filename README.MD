@@ -2,7 +2,7 @@
 
 Este projeto realiza uma análise exploratória dos dados de votação das eleições de 2022 no Brasil, com foco nos votos por partido e por candidato no estado de São Paulo.
 
-> Os arquivos de dados utilizados neste projeto podem ser baixados no site do [TSE](https://dadosabertos.tse.jus.br/). Por padrão, não são incluídos no repositório.
+> Os arquivos de dados utilizados neste projeto podem ser baixados no site do [TSE](https://dadosabertos.tse.jus.br/dataset/resultados-2022). Por padrão, não são incluídos no repositório.
 
 ## Objetivos
 
